@@ -1,1 +1,1 @@
-Hello, Git This is Pyaru Geetumon !
+Hello, Git!
